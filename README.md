@@ -1,2 +1,1 @@
-# PVZ2_Ipad2
-PVZ2 Ipad2 RSBs
+This is where PVZ2 ipad2 RSBs are uploaded, check Releases
